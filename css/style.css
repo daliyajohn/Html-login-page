@@ -1,0 +1,33 @@
+.login-form {
+	width: 500px;
+	margin-top: 12em;
+}
+.space-down {
+	margin-bottom: 35px;
+	color: white;
+}
+.msg {
+	display: none;
+}
+.text-info a {
+	color: white!important;
+}
+.login-background-image {
+	background: url(../image/bkimage.jpg);
+  min-height: 474px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+body {
+	margin: 8px;
+}
+.well {
+  background-color: rgba(41, 43, 70, 0.4)!important;
+}
+.form-control {
+  background-color: rgba(41, 43, 70, 0.4)!important;
+  border: 1px solid #918585;
+ }
+ .form-horizontal .control-label {
+ 	color: white;
+}
